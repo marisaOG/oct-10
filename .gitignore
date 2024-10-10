@@ -1,0 +1,5 @@
+*.slxc
+slprj/
+sccprj/
+
+*.autosave
